@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ffffff33;
+  margin: 10px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.image-url {
+  height: 60px;
+  align-self: center;
+}
+
+.card-heading {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
